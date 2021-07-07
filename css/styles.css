@@ -1,0 +1,25 @@
+h1  {
+    height: 100px;
+    font-family: monospace;
+    background-color: #a74ee7;
+    display: inline-block;
+    padding-top: 25px;
+    margin: 50px;
+}
+
+header {
+    background-color: goldenrod;
+    height: 45px;
+    margin-left: 500px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+nav {
+    height: 5px;
+    width: 20px;
+}
+
+.nav {
+    height: 2px;
+}
